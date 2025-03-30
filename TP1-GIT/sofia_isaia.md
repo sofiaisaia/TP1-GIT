@@ -1,7 +1,7 @@
 # Sofia Isaia - Curriculum Vitae
 
 ## Información Personal
-- **Nombre:** Sofia
+- **Nombre:** Sofia Isaia
 - **Fecha de nacimiento:** 27/12/2004
 - **Teléfono:** +543492615617
 - **Email:** sofia.isaia27@gmail.com
