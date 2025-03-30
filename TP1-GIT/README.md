@@ -3,3 +3,4 @@
 Integrantes:
 - Sofía Isaia
 
+[script.js](script.js)
